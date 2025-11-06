@@ -27,7 +27,7 @@ $(TARGET): $(OBJS)
 # 编译规则
 $(BUILD_DIR)/%.o: $(SRC_DIR)/%.c
 	$(CC) $(CFLAGS) -c $< -o $@
-
+	
 # 清理
 clean:
 	rm -rf $(BUILD_DIR) $(TARGET)
