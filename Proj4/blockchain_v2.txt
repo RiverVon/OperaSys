@@ -1,0 +1,3 @@
+0 | 1763617189.6147015 | Genesis Block | 9c577461b6ee080a82d8e469983abda04636b24862aef8ebe9a44104f19b737a | 0
+1 | 1763617189.6149182 | {"action": "CREATE_CONTRACT", "creator": "Alice", "beneficiary": "Bob", "amount": 100, "state": "created"} | c363738f241c201e957ea4c517e9b5d3da57d93278a4073771a845552732db15 | 9c577461b6ee080a82d8e469983abda04636b24862aef8ebe9a44104f19b737a
+2 | 1763617189.6150723 | {"action": "EXECUTE_CONTRACT", "creator": "Alice", "beneficiary": "Bob", "amount": 100, "state": "executed"} | 66fb8289acb0a6309d1a12d6d87088beaf3511399b50844b37353d49f934d1e4 | c363738f241c201e957ea4c517e9b5d3da57d93278a4073771a845552732db15
